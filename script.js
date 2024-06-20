@@ -10,7 +10,7 @@ let appleX = 0;
 let appleY = 0;
 let score = 0;
 let tailLength = 2;
-const speed = 1; // Speed of the snake
+const speed = 10; // Speed of the snake
 let timer = 0;
 let gameInterval;
 let isGameOver = false; // Flag to track game over state
